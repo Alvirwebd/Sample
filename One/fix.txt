@@ -7,3 +7,4 @@ add forter note
 
 Pinkmode fix - one more bug fixed
 another fix message for Pink mode
+another fix message for Purple mode
